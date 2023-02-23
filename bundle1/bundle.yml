@@ -1,0 +1,5 @@
+name: bundle1
+version: 0.1
+config-version: 1
+workspace:
+  profile: DEFAULT
